@@ -20,15 +20,14 @@
 
 <p align="center">
   <a href="#install">
-    <img alt="Get started" src="https://img.shields.io/badge/Get_Started-NPM%20Install-38bdf8">
+    <img alt="Get started" src="https://img.shields.io/badge/Get_Started-Install_Now-38bdf8">
   </a>
-  <a href="#troubleshooting">
-    <img alt="Chrome / Edge 113+" src="https://img.shields.io/badge/WebGPU-Chrome%20%2F%20Edge%20113%2B-4285F4?logo=googlechrome&logoColor=white">
+  <a href="https://caniuse.com/webgpu" target="_blank" rel="noopener noreferrer">
+    <img alt="WebGPU Support" src="https://img.shields.io/badge/WebGPU-Chrome_%2F_Edge_113+-4285F4?logo=googlechrome&logoColor=white">
   </a>
-  <img alt="No backend" src="https://img.shields.io/badge/Backend-None-10b981">
-  <img alt="No API keys" src="https://img.shields.io/badge/API%20keys-None-10b981">
-  <img alt="Single HTML file build" src="https://img.shields.io/badge/build-One%20HTML%20File-22c55e">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
+  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow">
+  </a>
 </p>
 <br />
 
