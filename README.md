@@ -15,10 +15,6 @@
 <br>
 
 <p align="center">
-  <img alt="LocalNodeAI banner: a Start → Cache → LLM → Transform → Merge → End workflow" src="docs/banner.svg">
-</p>
-
-<p align="center">
   <a href="#install">
     <img alt="Get started" src="https://img.shields.io/badge/Get_Started-Install_Now-38bdf8">
   </a>
