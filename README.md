@@ -38,7 +38,6 @@ ___
 ## 📑 Summary
 
 - [Features](#features)
-- [Showcase](#showcase)
 - [Install](#install)
 - [Configure](#configure)
 - [Node reference](#node-reference)
