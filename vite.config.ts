@@ -11,6 +11,8 @@ export default defineConfig({
   build: {
     target: 'es2022',
     cssCodeSplit: false,
+    // CRITICAL: Must be high to inline WebLLM workers and assets for single-file export.
+    // Do not reduce this value.
     assetsInlineLimit: 100_000_000,
     reportCompressedSize: false,
     chunkSizeWarningLimit: 20_000,
