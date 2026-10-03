@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# LocalNodeAI
-A zero-setup, local-first AI workflow builder that runs entirely in the browser. Drag nodes onto a canvas, wire them together, and execute them on your own GPU via **WebGPU**. No server, no backend, no API keys.
-=======
 <p align="center">
   <img alt="LocalNodeAI" src="docs/icon.svg" width="110" />
 </p>
@@ -24,15 +20,15 @@ A zero-setup, local-first AI workflow builder that runs entirely in the browser.
 
 <p align="center">
   <a href="#install">
-    <img alt="Get started" src="https://img.shields.io/badge/get_started-npm%20install-38bdf8?style=for-the-badge">
+    <img alt="Get started" src="https://img.shields.io/badge/Get_Started-NPM%20Install-38bdf8">
   </a>
   <a href="#troubleshooting">
     <img alt="Chrome / Edge 113+" src="https://img.shields.io/badge/WebGPU-Chrome%20%2F%20Edge%20113%2B-4285F4?logo=googlechrome&logoColor=white">
   </a>
-  <img alt="No backend" src="https://img.shields.io/badge/backend-none-10b981">
-  <img alt="No API keys" src="https://img.shields.io/badge/API%20keys-none-10b981">
-  <img alt="Single HTML file build" src="https://img.shields.io/badge/build-one%20HTML%20file-22c55e">
-  <img alt="License" src="https://img.shields.io/badge/license-see%20LICENSE-lightgrey">
+  <img alt="No backend" src="https://img.shields.io/badge/Backend-None-10b981">
+  <img alt="No API keys" src="https://img.shields.io/badge/API%20keys-None-10b981">
+  <img alt="Single HTML file build" src="https://img.shields.io/badge/build-One%20HTML%20File-22c55e">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
 </p>
 <br />
 
@@ -74,7 +70,7 @@ ___
 ### Requirements
 
 - **Node.js** `^20.19.0` or `>=22.12.0`
-- **Any** browser with ***WebGPU*** enabled *(e.g: Chrome, Brave or Edge 113+)*
+- Browser with ***WebGPU*** enabled *(e.g: **Chrome**, **Brave** or **Edge 113+**)*
 
 ### Option 1: Build once and use the single file (Recommended)
 
@@ -408,4 +404,3 @@ ___
 
 If LocalNodeAI is useful to you, consider starring the repository. It helps other
 developers discover the project.
->>>>>>> 2f8c30a (Initial commit)
