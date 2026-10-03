@@ -18,10 +18,10 @@
   <a href="#install">
     <img alt="Get started" src="https://img.shields.io/badge/Get_Started-Install_Now-38bdf8">
   </a>
-  <a href="https://caniuse.com/webgpu" target="_blank" rel="noopener noreferrer">
+  <a href="https://caniuse.com/webgpu">
     <img alt="WebGPU Support" src="https://img.shields.io/badge/WebGPU-Chrome_%2F_Edge_113+-4285F4?logo=googlechrome&logoColor=white">
   </a>
-  <a href="https://github.com/Kikubay/LocalNodeAI?tab=MIT-1-ov-file" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Kikubay/LocalNodeAI?tab=MIT-1-ov-file">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow">
   </a>
 </p>
