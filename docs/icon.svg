@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="LocalNodeAI">
+  <rect width="128" height="128" rx="30" fill="#0b0f17"/>
+  <g stroke="#374151" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M45 58 78 40"/>
+    <path d="M45 70 78 88"/>
+  </g>
+  <circle cx="34" cy="64" r="15" fill="#34d399"/>
+  <circle cx="94" cy="36" r="15" fill="#a78bfa"/>
+  <circle cx="94" cy="92" r="15" fill="#fbbf24"/>
+  <circle cx="34" cy="64" r="5" fill="#0b0f17"/>
+  <circle cx="94" cy="36" r="5" fill="#0b0f17"/>
+  <circle cx="94" cy="92" r="5" fill="#0b0f17"/>
+</svg>

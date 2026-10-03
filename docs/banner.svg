@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="A LocalNodeAI workflow: Start, Cache, LLM, Transform, Merge and End connected on a canvas">
+  <defs>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#1f2937"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="400" rx="16" fill="#0b0f17"/>
+  <rect width="1200" height="400" rx="16" fill="url(#dots)"/>
+
+  <g stroke="#4b5563" stroke-width="2.5" fill="none">
+    <path d="M180 168H216"/>
+    <path d="M380 168H416"/>
+    <path d="M580 168H616"/>
+    <path d="M780 168H816"/>
+    <path d="M980 168h36"/>
+  </g>
+
+  <g fill="#111827" stroke="#1f2937" stroke-width="2">
+    <rect x="20" y="120" width="160" height="96" rx="12"/>
+    <rect x="220" y="120" width="160" height="96" rx="12"/>
+    <rect x="420" y="120" width="160" height="96" rx="12"/>
+    <rect x="620" y="120" width="160" height="96" rx="12"/>
+    <rect x="820" y="120" width="160" height="96" rx="12"/>
+    <rect x="1020" y="120" width="160" height="96" rx="12"/>
+  </g>
+
+  <g>
+    <rect x="21" y="121" width="158" height="4" rx="2" fill="#34d399"/>
+    <rect x="221" y="121" width="158" height="4" rx="2" fill="#22d3ee"/>
+    <rect x="421" y="121" width="158" height="4" rx="2" fill="#a78bfa"/>
+    <rect x="621" y="121" width="158" height="4" rx="2" fill="#f472b6"/>
+    <rect x="821" y="121" width="158" height="4" rx="2" fill="#38bdf8"/>
+    <rect x="1021" y="121" width="158" height="4" rx="2" fill="#fbbf24"/>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#e5e7eb" text-anchor="middle">
+    <text x="100" y="170">Start</text>
+    <text x="300" y="170">Cache</text>
+    <text x="500" y="170">LLM</text>
+    <text x="700" y="170">Transform</text>
+    <text x="900" y="170">Merge</text>
+    <text x="1100" y="170">End</text>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">
+    <text x="100" y="194">your prompt</text>
+    <text x="300" y="194">skip repeats</text>
+    <text x="500" y="194">WebGPU</text>
+    <text x="700" y="194">reshape text</text>
+    <text x="900" y="194">join inputs</text>
+    <text x="1100" y="194">final answer</text>
+  </g>
+
+  <text x="600" y="60" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="30" font-weight="700" fill="#f9fafb" text-anchor="middle">LocalNodeAI</text>
+  <text x="600" y="88" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="15" fill="#9ca3af" text-anchor="middle">Local AI workflows. One HTML file. No server.</text>
+
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">
+    <text x="600" y="290">The whole app — editor, engine and model runtime — builds into one offline HTML file.</text>
+    <text x="600" y="312">Weights are fetched once from the Hugging Face CDN, then cached by your browser.</text>
+  </g>
+</svg>
